@@ -2,20 +2,20 @@
 
 <div align="center">
   <a href="https://github.com/gianvr">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=gianvr&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianvr&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gianvr&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianvr&layout=compact&langs_count=7&theme=github_dark"/>
   
 </div>
 <div style="display: inline_block"><br>
-    <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-    <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-    <img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-    <img align="center" alt="Javascript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-    <img align="center" alt="NextJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-    <img align="center" alt="Arduino" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
-    <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    <img align="center" alt="Django" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
+    <img align="center" alt="Python" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    <img align="center" alt="CSS" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+    <img align="center" alt="HTML" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+    <img align="center" alt="Javascript" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img align="center" alt="React" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <img align="center" alt="NextJS" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+    <img align="center" alt="Arduino" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+    <img align="center" alt="Java" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    <img align="center" alt="Django" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
   </div>
   
 ##
