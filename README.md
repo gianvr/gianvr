@@ -1,4 +1,4 @@
-## Olá, meu nome é Giancarlo e seja bem-vindo ao meu perfil do GitHub
+## Hi👋, my name is Giancarlo and welcome to my GitHub profile.
 
 <div align="center">
   <a href="https://github.com/gianvr">
