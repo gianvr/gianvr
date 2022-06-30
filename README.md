@@ -1,7 +1,5 @@
 ## Hi👋, my name is Giancarlo and welcome to my GitHub profile.
 
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=gianvr&repo=gianvr&countColorcountColor)
-
 <div align="center">
   <a href="https://github.com/gianvr">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gianvr&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
